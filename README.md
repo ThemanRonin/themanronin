@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://themanronin.github.io/,prs) 
+![Anurag's GitHub stats](https://themanronin.github.io) 
