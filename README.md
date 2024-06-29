@@ -1,1 +1,1 @@
-[![](screenshot.png)](https://themanronin.github.io)
+![](screenshot)](https://themanronin.github.io)
