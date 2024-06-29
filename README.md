@@ -1,5 +1,3 @@
 <div>
-  <iframe srcdoc="
-    [https://dpaste.org/fFTDG/raw]
-  " width="100%" height="300" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://dpaste.org/fFTDG/raw" width="100%" height="400" frameborder="0"></iframe>
 </div>
