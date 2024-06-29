@@ -1,6 +1,4 @@
 <div>
-
-
       <svg
         width="450"
         height="195"
@@ -210,6 +208,5 @@
     </svg>
   
         </g>
-      </svg>
-    
+      </svg>   
 </div>
